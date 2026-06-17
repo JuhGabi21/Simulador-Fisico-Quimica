@@ -1,4 +1,7 @@
 UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ
+
 MATÉRIA: Físico-Química.
+
 AUTORA: Julia Gabriela Strapasson Mauricio.
+
 OBJETIVO: Este trabalho apresenta um simulador interativo da Distribuição de Velocidades de Maxwell-Boltzmann desenvolvido em Python com a biblioteca gráfica tkinter e integração com matplotlib. O software funciona como um Laboratório Virtual e Recurso Educacional Aberto (REA), permitindo a modelagem computacional macroscópica de colisões elásticas de partículas e a análise estatística abstrata das curvas de densidade de probabilidade. O sistema conta com suporte para visualizações em duas (2D) e três dimensões (3D), troca dinâmica de gases nobres, controle térmico em tempo real e chaveamento de interface (Modo Escuro), servindo como uma ferramenta pedagógica ferramenta pedagógica para o ensino de Termodinâmica, Teoria Cinética dos Gases e Físico-Química.
